@@ -1,0 +1,30 @@
+{
+    "userSuccess":{
+        "username":"jesse",
+        "password":"12345"
+    },
+    "userFail":{
+        "username":"Heath93",
+        "password":"scret"
+    },
+    "userCadastro":{
+        "firstName":"testeJ",
+        "lastName":"testeJ",
+        "username":"jesse",
+        "password":"12345",
+        "confirmPassword":"12345"
+
+    },
+    "adminUser":{
+        "username":"Heath93",
+        "password":"s3cret"
+    },
+    "semNada":{
+        "firstName":"sem",
+        "lastName":"nada",
+        "username":"semNada",
+        "password":"12345",
+        "confirmPassword":"12345"
+    }
+}
+
